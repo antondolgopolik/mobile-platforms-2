@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources[<!ENTITY google_server_client_id "664593902083-ihe53b123e8m1v1e7f57fuplfg9sju2f.apps.googleusercontent.com"><!ENTITY exchange_rate_api_key "f170298ca6aaa27cb90b3d84">]>
+
+<resources>
+    <string name="google_server_client_id">&google_server_client_id;</string>
+    <string name="exchange_rate_api_key">&exchange_rate_api_key;</string>
+
+    <string name="app_name">Mobile platforms 2</string>
+
+    <!-- Запрсы к Product API -->
+    <string name="all_category_names_url">https://fakestoreapi.com/products/categories</string>
+    <string name="all_category_products_url">https://fakestoreapi.com/products/category/</string>
+    <string name="product_url">https://fakestoreapi.com/products/</string>
+
+    <!-- Запросы к ExchangeRate-API -->
+    <string name="all_exchange_rates_url">https://v6.exchangerate-api.com/v6/&exchange_rate_api_key;/latest/</string>
+
+    <!-- Остальное -->
+    <string name="about_us_text">This is mobile platforms lab №2\nDeveloper: Anton Dolgopolik\nGroup: 951006</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
